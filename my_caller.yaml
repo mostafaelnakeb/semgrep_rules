@@ -1,0 +1,3 @@
+rules:
+  - include: hhttps://raw.githubusercontent.com/mostafamahmoud12/semgrep_rules/main/anonymous-race-condition.yaml
+  - include: https://raw.githubusercontent.com/mostafamahmoud12/semgrep_rules/main/hanging-goroutine.yaml
